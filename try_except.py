@@ -1,0 +1,3 @@
+
+finally:
+    print(f"Skończyłem")
