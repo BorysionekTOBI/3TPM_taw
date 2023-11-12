@@ -10,6 +10,7 @@ def zapis(nazwapliku, tryb, rodzaj, tresc):
                             f.write(tr + "\n")
                         else:
                             f.write(str(tr) + "\n")
+                            
                     
                     print(f"Zawartość została zapisana do pliku {nazwapliku}.")
             else:
