@@ -1,0 +1,2 @@
+Marka: BMW, Model: E39, Rocznik: 2006, Pojemnoœæ silnika: 1.8, Przebieg: 5000, W³aœciciel: Marcin Kanapka
+Marka: Porsche, Model: 911 GT3 RS, Rocznik: 2023, Pojemnoœæ silnika: 4.0, Przebieg: 5000, W³aœciciel: Donald Tupet

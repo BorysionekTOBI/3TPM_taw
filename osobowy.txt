@@ -1,0 +1,2 @@
+Marka: Bentley, Model: Continental, Rocznik: 2022, Pojemnoœæ silnika: 6.0, Przebieg: 2000, W³aœciciel: Hilary Wintencjusz, Liczba miejsc: 7
+Marka: Rolls-Royce, Model: Phantom, Rocznik: 2022, Pojemnoœæ silnika: 6.75, Przebieg: 2020, W³aœciciel: B³a¿ej Angielski, Liczba miejsc: 7
