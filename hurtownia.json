@@ -1,0 +1,32 @@
+[
+  {
+    "nazwa": "Cement",
+    "cena": 20.0,
+    "ilosc": 90
+  },
+  {
+    "nazwa": "Ceg\u0142y",
+    "cena": 0.5,
+    "ilosc": 300
+  },
+  {
+    "nazwa": "Farba",
+    "cena": 30.0,
+    "ilosc": 50
+  },
+  {
+    "nazwa": "Dach\u00f3wka",
+    "cena": 2.0,
+    "ilosc": 300
+  },
+  {
+    "nazwa": "Tynk",
+    "cena": 1.0,
+    "ilosc": 0
+  },
+  {
+    "nazwa": "Deski",
+    "cena": 5.0,
+    "ilosc": 150
+  }
+]

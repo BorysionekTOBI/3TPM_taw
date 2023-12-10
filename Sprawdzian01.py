@@ -5,7 +5,7 @@ Sprawdzian 01 liczby, listy, krotki
     28.09.2023
 '''
 
-kkadowski@gmail.com
+#kkadowski@gmail.com
 
 #1
 lista1=(2,4,6, 'Anna', 'Zenon')
@@ -61,4 +61,3 @@ moja_tupla = moja_tupla('D',)
 print("Twoja krotka: " +str(moja_tupla))
 
 #BONUS
-listaX
