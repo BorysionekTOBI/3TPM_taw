@@ -25,3 +25,6 @@ class Nauczyciel(Osoba):
     
     def przedstaw_sie(self):
         return f"Nazywam sie {self.imie} {self.nazwisko} mam {self.wiek} lat i jestem nauczycielem {self.przedmiot}. "
+    
+#------------------------------------------------------------------------
+
